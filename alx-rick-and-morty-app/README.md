@@ -109,5 +109,3 @@ You can monitor them in your [Sentry project dashboard](https://sentry.io/).
 ## 📜 License
 
 This project is for **educational purposes** under the **ALX Software Engineering curriculum**.
-
-```
