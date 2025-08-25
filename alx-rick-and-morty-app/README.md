@@ -111,14 +111,3 @@ You can monitor them in your [Sentry project dashboard](https://sentry.io/).
 This project is for **educational purposes** under the **ALX Software Engineering curriculum**.
 
 ```
-
----
-
-👉 This `README.md` includes:
-- Setup instructions  
-- How to test the ErrorBoundary  
-- How to connect Sentry  
-- Project structure  
-
-Do you want me to also add a **section with screenshots placeholders** (e.g., error boundary UI + Sentry dashboard), so you can just drop your screenshots in before submitting?
-```
